@@ -110,7 +110,7 @@ public class HeatmapTileProvider implements TileProvider {
     /**
      * Maximum radius value.
      */
-    private static final int MAX_RADIUS = 32768;
+    private static final int MAX_RADIUS = 50;
 
     /**
      * Quad tree of all the points to display in the heatmap
